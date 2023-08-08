@@ -11,3 +11,5 @@ Where I end and begin
 Still belongs to me
 
 Commit 1 in feature
+
+Commit 2 in feature
